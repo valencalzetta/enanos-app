@@ -36,6 +36,15 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# Claude Code
+.claude/
+
+# Editor
+.vscode/
+
+# Imágenes fuente (copiadas a assets/enanos/)
+fotos-enanos/
+
 # generated native folders
 /ios
 /android
